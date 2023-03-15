@@ -1,4 +1,4 @@
-<img style="margin: 0px" src="https://raw.githubusercontent.com/jpqateste/071ttl/main/071TAL.png" alt="Lab 071TTL" title="Lab 071TAL" />
+<img style="margin: 0px" src="https://github.com/jpqateste/071tal/blob/main/071TAL.png" alt="Lab 071TTL" title="Lab 071TAL" />
 
 # 071 Training Automation Lab
 
